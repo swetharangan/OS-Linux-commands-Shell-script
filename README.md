@@ -51,8 +51,9 @@ cat < file2
 cmp file1 file2
 ## OUTPUT
 <img width="492" height="36" alt="image" src="https://github.com/user-attachments/assets/5716d4e4-497c-44d6-b923-48b7b060b173" /> 
+
 comm file1 file2
- ## OUTPUT
+## OUTPUT
 <img width="492" height="165" alt="image" src="https://github.com/user-attachments/assets/a512dd73-45c7-49d5-8586-d92e5067eec6" />
 
 diff file1 file2
